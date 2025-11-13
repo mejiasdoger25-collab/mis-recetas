@@ -4,5 +4,5 @@ Este proyecto es una colección sencilla de recetas en HTML. Incluye una página
 
 ## Recetas disponibles:
 - [Tortilla de Patatas](recetas/tortilla.html)
-- [Salmonejo](recetas/salmonejo.html)
+- [Salmonejo](recetas/salmorejo.html)
 - [Paella](recetas/paella.html)
